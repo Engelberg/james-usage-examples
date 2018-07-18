@@ -9,10 +9,11 @@
                  [medley "1.0.0"]
                  [org.clojure/math.numeric-tower "0.0.4"]
                  [org.clojure/math.combinatorics "0.1.4"]
-                 [org.clojure/data.priority-map "0.0.9"]
+                 [org.clojure/data.priority-map "0.0.10"]
                  [ubergraph "0.5.0"]
                  [instaparse "1.4.9"]
                  [semantic-csv "0.1.0"]
+                 [org.clojure/data.generators "0.1.2"]
                  [clojure-csv/clojure-csv "2.0.1"]
                  [org.jamesframework/james-core "1.2"]
                  [org.jamesframework/james-extensions "1.2"]])
